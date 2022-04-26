@@ -5,3 +5,4 @@
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=thq_algo)](https://github.com/ithaiq/thq_algo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=thqcache)](https://github.com/ithaiq/thqcache)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=thq_gin)](https://github.com/ithaiq/thq_gin)
